@@ -16,7 +16,3 @@ This project follows the Keras for Beginners tutorial from Daily.dev.
 To get started with this project, you'll need:
 - Python 3.x
 - TensorFlow and Keras libraries
-
-## License
-
-MIT License
